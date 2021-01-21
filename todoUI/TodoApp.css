@@ -1,0 +1,117 @@
+
+body {
+  /*background: #1A237E;*/
+  font-size : 20px;
+  height:600px ;
+  width:1500px;
+  height : 100px;
+  background-image: url("bg1.png");
+  
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+
+.logo {
+ display : block;
+ margin-left : auto;
+ margin-right: auto;
+ margin-top: 50px;
+ max-width: 50px;
+
+}
+
+.app-title {
+  text-align : center;
+  margin-left : auto;
+  margin-right: auto;
+  font-family: Helvetica Neue Regular ;
+  font-size: 30px;
+  color : #fff;
+}
+.container {
+  text-align: center;
+font-family: Helvetica Neue Regular;
+font-size: 30px;
+color: #fff; 
+
+}
+
+.btn{
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 24px;
+  font-family: Helvetica Neue Regular;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color:  #1A237E;
+  background-color : #fff;
+  border: none;
+  border-radius: 10px;
+  
+  margin-left: 20px;
+}
+.btn:active {
+ 
+    background-color: #3e8e41;
+    box-shadow: 0 5px #fff;
+    transform: translateY(4px);
+}
+
+.list ul li{
+  display:inline;
+  margin-left: 30px;
+  font-family: Helvetica Neue Regular;
+font-size: 20px;
+
+}
+
+
+.btn:hover {
+  background-color:#fff;
+}
+.input-text{
+  font-size: 20px;
+  padding: 10px 20px;
+  margin : 10px 5 px;
+  margin-right : 20px; 
+  border-color: #1A237E ;
+  border-radius: 10px;
+  font-family: Helvetica  Neue Regular;
+  color: #1A237E;
+  
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

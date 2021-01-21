@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="80" viewBox="0 0 64 80">
+  <defs>
+    <clipPath id="clip-BEAT_Logo_Light">
+      <rect width="64" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="BEAT_Logo_Light" data-name="BEAT Logo_Light" clip-path="url(#clip-BEAT_Logo_Light)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="64" height="80" fill="none"/>
+    <g id="BEAT_Logo_Light-2" data-name="BEAT Logo Light" transform="translate(5 4)">
+      <rect id="Bounding_Box" data-name="Bounding Box" width="38" height="38" transform="translate(8 17)" fill="none"/>
+      <g id="BEAT_Logo_Light-3" data-name="BEAT Logo Light" transform="translate(19.083 22.52)">
+        <path id="Polygon_1" data-name="Polygon 1" d="M5.451,1.568a3.167,3.167,0,0,1,5.467,0l5.015,8.582A3.167,3.167,0,0,1,13.2,14.916H3.167A3.167,3.167,0,0,1,.433,10.151Z" transform="translate(14.916 0) rotate(90)" fill="#fff"/>
+        <path id="Polygon_2" data-name="Polygon 2" d="M6.2,1.545a3.167,3.167,0,0,1,5.44,0L17.4,11.2a3.167,3.167,0,0,1-2.72,4.79H3.166A3.167,3.167,0,0,1,.447,11.2Z" transform="translate(15.986 9.098) rotate(90)" fill="#9c27b0" opacity="0.7"/>
+      </g>
+    </g>
+  </g>
+</svg>
